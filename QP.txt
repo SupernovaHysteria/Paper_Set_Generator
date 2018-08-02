@@ -1,0 +1,42 @@
+Q1.Enter question 1 here?
+a)Option a
+b)Option b
+c)Option c
+d)Option d
+e)Option e
+
+Q2.Enter question 2 here?
+a)Option a
+b)Option b
+c)Option c
+d)Option d
+
+Q3.Enter question 3 here?
+a)Option a
+b)Option b
+c)Option c
+d)Option d
+
+Q4.Enter question 4 here?
+a)Option a
+b)Option b
+c)Option c
+d)Option d
+
+Q5.Enter question 5 here?
+a)Option a
+b)Option b
+c)Option c
+d)Option d
+
+Q6.Enter question 6 here?
+a)Option a
+b)Option b
+c)Option c
+d)Option d
+
+Q7.Enter question 7 here?
+a)Option a
+b)Option b
+c)Option c
+d)Option d
